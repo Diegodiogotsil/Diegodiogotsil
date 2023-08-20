@@ -10,6 +10,8 @@
 
 - 🌱 Atualmente estou estudando para programar em diversos tipos de linguagem. **,cada dia um paço a frente...**
 
+- 📫 Visite meu linkedim em: **www.linkedin.com/in/diego-teixeira-da-silva-a4128a23a**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/diego-teixeira-da-silva-a4128a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-teixeira-da-silva-a4128a23a" height="30" width="40" /></a>
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegodiogotsil&show_icons=true&locale=en" alt="diegodiogotsil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegodiogotsil&" alt="diegodiogotsil" /></p>
+
