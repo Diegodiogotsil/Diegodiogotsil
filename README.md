@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodiogotsil&label=Profile%20views&color=0e75b6&style=flat" alt="diegodiogotsil" /> </p>
 
-- 🔭 Atualmente eu estou programando em **javaSE, python, c#, entre outras linguagens**
+- 🔭 Atualmente eu estou programando em **React.js, python, c#, entre outras linguagens**
 
 - 🌱 Atualmente estou estudando para programar em diversos tipos de linguagem. **,cada dia um paço a frente...**
 
